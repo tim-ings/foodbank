@@ -3,23 +3,7 @@
 A web application aiming to educate young children about healthy eating habits and food groups
 
 ## Available Scripts
-
-Please have `yarn` installed on your computer to run the project the intended way. Also make sure the line endings for the project are `lf` to reduce any possible bugs.
-
-In the project directory, you can run:
-
-### `yarn dev`
-
-Runs the app's frontend and backend in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn client`
-
-Runs the app's frontend only in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3000) to view it in the browser.
 
 ### `yarn server`
 
